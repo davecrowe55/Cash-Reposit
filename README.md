@@ -1,3 +1,3 @@
 # Cash-Reposit
-Psycobilin on tap.
+Par excellence
 Here I am, learning about github, a great journey awaits.
